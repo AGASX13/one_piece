@@ -16,7 +16,7 @@ This project displays a grid of popular **One Piece characters** with hover effe
 
 ## 📸 Preview
 
-![Preview Screenshot](images/preview.png)  
+![Preview Screenshot](Images/preview.png)  
 *Replace this with a real screenshot of the gallery UI.*
 
 ---
